@@ -1,0 +1,12 @@
+/Users/hannastokes/Assignment8/Library/bin/Debug/netcoreapp3.1/Library.deps.json
+/Users/hannastokes/Assignment8/Library/bin/Debug/netcoreapp3.1/Library.runtimeconfig.json
+/Users/hannastokes/Assignment8/Library/bin/Debug/netcoreapp3.1/Library.runtimeconfig.dev.json
+/Users/hannastokes/Assignment8/Library/bin/Debug/netcoreapp3.1/Library.dll
+/Users/hannastokes/Assignment8/Library/bin/Debug/netcoreapp3.1/Library.pdb
+/Users/hannastokes/Assignment8/Library/obj/Debug/netcoreapp3.1/Library.csprojAssemblyReference.cache
+/Users/hannastokes/Assignment8/Library/obj/Debug/netcoreapp3.1/Library.csproj.CoreCompileInputs.cache
+/Users/hannastokes/Assignment8/Library/obj/Debug/netcoreapp3.1/Library.AssemblyInfoInputs.cache
+/Users/hannastokes/Assignment8/Library/obj/Debug/netcoreapp3.1/Library.AssemblyInfo.cs
+/Users/hannastokes/Assignment8/Library/obj/Debug/netcoreapp3.1/Library.dll
+/Users/hannastokes/Assignment8/Library/obj/Debug/netcoreapp3.1/Library.pdb
+/Users/hannastokes/Assignment8/Library/obj/Debug/netcoreapp3.1/Library.genruntimeconfig.cache

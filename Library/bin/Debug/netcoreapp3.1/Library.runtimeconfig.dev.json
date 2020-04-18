@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/hannastokes/.dotnet/store/|arch|/|tfm|",
+      "/Users/hannastokes/.nuget/packages"
+    ]
+  }
+}
