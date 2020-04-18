@@ -17,7 +17,7 @@ namespace Library {
 
         public Game() {
             // window
-            win = new Window("Space Taxi Game v0.1", 500, AspectRatio.R1X1);
+            win = new Window("Space Taxi Game v0.1", 920, 920);
 
             // event bus
             eventBus = EventBus.GetBus();
@@ -73,7 +73,7 @@ namespace Library {
                 win.CloseWindow();
                 break;
             case "KEY_F12":
-                Console.WriteLine("Saving screenshot");
+                System.Console.WriteLine("Saving screenshot");;
                 win.SaveScreenShot();
                 break;
             case "KEY_UP":

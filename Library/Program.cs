@@ -1,6 +1,7 @@
 ﻿using System;
+using Library;
 
-namespace SpaceTaxi_1 {
+namespace Library {
     internal class Program {
         public static void Main(string[] args) {
             var game = new Game();

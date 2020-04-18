@@ -13,7 +13,6 @@ namespace Library.LevelLoading {
 
             // Gather all the information/objects the levels needs here.
             reader.ReadFile(levelname);
-            reader
 
             return level;
         }
