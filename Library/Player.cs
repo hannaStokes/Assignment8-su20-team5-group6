@@ -35,6 +35,7 @@ namespace Library {
             }
         }
             
+        //TO-DO: update picture in KeyRelease depending on the direction
         private void KeyRelease(string key) {
             switch(key) {
                 case "KEY_RIGHT":
@@ -55,6 +56,7 @@ namespace Library {
             }
         }
 
+        //TO-DO: update picture in Direction depending on the direction
         public void Direction(Vec2F vector) {
             DynamicShape dShape = Entity.Shape.AsDynamicShape();
             dShape.ChangeDirection(vector);
